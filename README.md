@@ -1,5 +1,5 @@
 ## SemSketches
-Our competition is an opportunity to work with a semantic sketch. Semantic sketches represent most frequent collocations of a word, sorted according to the semantic relations between the core word and its dependencies. The goal of the competition is to evaluate how representative and illustrative the sketches are by trying to find the necessary sketches in a given set using the context of a word without seeing the word itself.
+Our competition is an opportunity to work with a semantic sketch. Semantic sketches represent most frequent collocations of a word, sorted according to the semantic relations between the core word and its dependencies. The goal of the competition is to evaluate how representative and illustrative the sketches are by trying to find the necessary sketches in the given set using the context of a word without seeing the word itself.
 
 ### Contact the organizers and other participants
 Do not hesitate to join the SemSketches chat in Telegram https://t.me/SemSketches
@@ -9,7 +9,7 @@ Do not hesitate to join the SemSketches chat in Telegram https://t.me/SemSketche
 | :---         |           ---: |
 | Release of the Trial Data  | Feb 12th 2021  | 
 | 1st Task Data release    | Feb 17th 2021  |
-| 2nd Task Data release    | Feb 22th 2021  |
+| 2nd Task Data release    | Mar 3rd 2021  |
 | **System submission due**    | **Mar 10th  2021** |
 | Final results announcement   | Mar 12th 2021  |
 | Paper submission due   | Mar 20th 2021  |
