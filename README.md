@@ -1,6 +1,17 @@
 ## SemSketches
 Our competition is an opportunity to work with a semantic sketch. Semantic sketches represent most frequent collocations of a word, sorted according to the semantic relations between the core word and its dependencies. The goal of the competition is to evaluate how representative and illustrative the sketches are by trying to find the necessary sketches in the given set using the context of a word without seeing the word itself.
 
+### Results
+**dev.gold** - mapping between 44750 sentences and 895 sketches  
+**manual_dev.gold** - manually selected subset of dev.gold, mapping between  4347 sentences and 100 sketches
+
+|              |            |            |
+| :---         |           ---: |          ---: |
+|**team** |  **dev.gold**  |   **manual_dev.gold**   |
+|paleksandrova |    0.309      |     0.277       |
+|good501 |   0.104    |      0.127      |
+| smpl|     0.182       |    0.121        |
+
 ### Important links
 Contact the organizers and other participants via Telegram, do not hesitate to join the SemSketches chat https://t.me/SemSketches.  
 Please **register your team** using this [google form](https://docs.google.com/forms/d/e/1FAIpQLSckaiXy7TuXJjHi-wQq6GBTTgLkQjda-o9EcEmV2hI31ubB9Q/viewform).
