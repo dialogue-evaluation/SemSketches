@@ -2,8 +2,8 @@
 Our competition is an opportunity to work with a semantic sketch. Semantic sketches represent most frequent collocations of a word, sorted according to the semantic relations between the core word and its dependencies. The goal of the competition is to evaluate how representative and illustrative the sketches are by trying to find the necessary sketches in the given set using the context of a word without seeing the word itself.
 
 ### Results
-**dev.gold** - mapping between 44750 sentences and 895 sketches  
-**manual_dev.gold** - manually selected subset of dev.gold, mapping between  4347 sentences and 100 sketches
+[**dev.gold**](https://github.com/dialogue-evaluation/SemSketches/blob/main/data/dev/dev.gold) - mapping between 44750 sentences and 895 sketches  
+[**manual_dev.gold**](https://github.com/dialogue-evaluation/SemSketches/blob/main/data/dev/manual_dev.gold) - manually selected subset of dev.gold, mapping between  4347 sentences and 100 sketches
 
 |              |            |            |
 | :---         |           ---: |          ---: |
