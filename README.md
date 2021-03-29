@@ -12,9 +12,9 @@ __!Deadline extended!__
 | Release of the Trial Data  | Feb 12th 2021  | 
 | 1st Task Data release    | Feb 17th 2021  |
 | 2nd Task Data release    | Mar 5th 2021  |
-| **System submission due**    | ~~Mar 14th  2021~~ Mar 20th  2021|
-| Final results announcement   | ~~Mar 16th 2021~~  Mar 22nd  2021|
-| Paper submission due   | ~~Mar 23rd 2021~~  Mar 30th  2021|
+| **System submission due**    | ~~Mar 14th  2021~~ Mar 27th  2021|
+| Final results announcement   | ~~Mar 16th 2021~~  Mar 29th  2021|
+| Paper submission due   | ~~Mar 23rd 2021~~  Apr 5th  2021|
 
 ### What is a semantic sketch
 In this competition, a semantic sketch is understood as a generalized lexicographic portrait of a word. In other words, it is a way of representing the compatibility of words, where the description of each word includes a set of its most frequent semantic dependencies classified according to their semantic roles (Agent, Object, Locative). For each role a number of relevant “fillers” (words and phrases) are given, and the fillers are ranked according to the frequency of their compatibility with the core. Each sketch here illustrates a word in a certain meaning.
