@@ -14,7 +14,7 @@ Our competition is an opportunity to work with a semantic sketch. Semantic sketc
 
 ### Important links
 Contact the organizers and other participants via Telegram, do not hesitate to join the SemSketches chat https://t.me/SemSketches.  
-Please **register your team** using this [google form](https://docs.google.com/forms/d/e/1FAIpQLSckaiXy7TuXJjHi-wQq6GBTTgLkQjda-o9EcEmV2hI31ubB9Q/viewform).
+SemSketches Codalab page [here](https://competitions.codalab.org/competitions/29992).
 
 ### Timeline
 __!Deadline extended!__
